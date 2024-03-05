@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=wushenhaoyu&theme=xcode" /> </div>
-![wushen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wushenhaoyu)
+[![wushenhaoyu's github stats](https://github-readme-stats.vercel.app/api?username=wushenhaoyu)](https://github.com/mango-lzp/github-readme-stats)
 <!--
 **wushenhaoyu/wushenhaoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
