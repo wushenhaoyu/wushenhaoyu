@@ -1,5 +1,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wushenhaoyu&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushenhaoyu&theme=dark" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushenhaoyu&theme=dark&layout=compact" />
+ <div style="display:flex;justify-content: center;"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushenhaoyu&theme=dark" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushenhaoyu&theme=dark&layout=compact" /></div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=wushenhaoyu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **wushenhaoyu/wushenhaoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
