@@ -1,7 +1,7 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wushenhaoyu&theme=high-contrast)
 
 <div align="center">
-   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=wushenhaoyu&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushenhaoyu&theme=dark&layout=compact" />
+   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=wushenhaoyu&theme=dark" /> <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wushenhaoyu&theme=dark&layout=compact" />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wushenhaoyu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
