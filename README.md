@@ -26,6 +26,12 @@
 ![](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Vitess-1868F2?style=for-the-badge&logo=vitess&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <!--
 **wushenhaoyu/wushenhaoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
